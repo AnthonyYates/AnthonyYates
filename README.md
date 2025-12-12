@@ -2,10 +2,10 @@ Hi there![](https://user-images.githubusercontent.com/18350557/176309783-0785949
 
 My name is Anthony Yates
 
-* :trident: I'm Software Engineer and Developer Experience Program Manager
+* :trident: I'm Software Engineer and Product Developer
 * :office:  I've worked for SuperOffice :loop: in Oslo, Norway since 2006
-* :elephant: I love to write code, and spend a lot of time writing docs
-* :mega:While spend a lot of time on https://community.superoffice.com helping other developers, I spend most of my time supporting https://docs.superoffice.com.
+* :elephant: I love to write code, and spend time writing docs
+* :mega: While I have spent a lot of time on https://community.superoffice.com helping other developers, and supporting https://docs.superoffice.com, these days I'm developing CRM stuff.
 * My alter ego is [SuperOfficeDevNet](https://github.com/SuperOfficeDevNet)
 
 ### Skills
@@ -38,10 +38,7 @@ My name is Anthony Yates
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/AnthonyYates" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/tonyryates" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/tryates/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/AnthonyYates" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/TonyYates" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
-### Badges
 
-<b>My GitHub Stats</b>
 
-<a href="http://www.github.com/AnthonyYates"><img src="https://github-readme-stats.vercel.app/api?username=AnthonyYates&show_icons=true&hide=stars,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="AnthonyYates's GitHub stats" /></a>
 
-<a href="http://www.github.com/AnthonyYates"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=AnthonyYates&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
